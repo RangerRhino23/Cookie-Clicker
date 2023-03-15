@@ -1,4 +1,4 @@
-# Simple Cookie Clicker Game created using Ursina Engine
+## Simple Cookie Clicker Game created using Ursina Engine
 
 #[Ursina Engine](https://www.ursinaengine.org/)
 
