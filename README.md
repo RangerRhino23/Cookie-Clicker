@@ -10,4 +10,4 @@
 #Discord: Itsbailey X#5131
 
 
-[The game](https://i.imgur.com/BskdFHa.png)
+![The game](https://i.imgur.com/BskdFHa.png)
