@@ -9,6 +9,6 @@
 
 #Discord: Itsbailey X#5131
 
-#### Game preview
+### Game preview
 
 ![The game](https://i.imgur.com/BskdFHa.png)
