@@ -3,7 +3,7 @@
 #[Ursina Engine](https://www.ursinaengine.org/)
 
 
-#Created by: :-[@RangerRhino23](https://www.github.com/RangerRhino23) and :-[@ItsbaileyX3525](https://www.github.com/ItsbaileyX3525) 
+#Created by: [@RangerRhino23](https://www.github.com/RangerRhino23) and [@ItsbaileyX3525](https://www.github.com/ItsbaileyX3525) 
 
 #Discord: RangerRhino#4484
 
