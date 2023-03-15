@@ -1,10 +1,14 @@
-# Simple Cookie Clicker Game created using Ursina Engine
+## Simple Cookie Clicker Game created using Ursina Engine
 
-#https://www.ursinaengine.org/
+#[Ursina Engine](https://www.ursinaengine.org/)
 
-#Created by: RangerRhino23 and ItsBaileyX3525
+
+#Created by: [@RangerRhino23](https://www.github.com/RangerRhino23) and [@ItsbaileyX3525](https://www.github.com/ItsbaileyX3525) 
 
 #Discord: RangerRhino#4484
 
-
 #Discord: Itsbailey X#5131
+
+### Game preview
+
+![The game](https://i.imgur.com/BskdFHa.png)
